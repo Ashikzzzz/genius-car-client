@@ -2,7 +2,7 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <div className="bg-black text-white my-10 flex justify-evenly py-16 rounded">
+    <div className="bg-black  text-white my-10 grid lg:grid-cols-3 sm:grid-cols-1 text-center py-16 rounded">
       <div>
         <p>
           <small>We are open monday-friday</small>
